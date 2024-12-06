@@ -13,6 +13,10 @@ public class Main {
 * @params args son els argument de entrada en la linea de comandes per l'usuari
 */
 public static void main(String[] args) {
+    
+        System.out.println("Hola, em dic Jessica Fernández Martínez");
+        System.out.println("He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
+
         Scanner scanner = new Scanner(System.in);
 
         // Demana a l'usuari que introduixi la mida de l'array que desitja
